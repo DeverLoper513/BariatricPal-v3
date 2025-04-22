@@ -33,7 +33,9 @@ body {
   justify-content: center;
   flex-flow: column wrap;
 }
-
+.accordion-header{
+  margin-bottom: 5rem !important;
+}
 .logo {
   display: flex;
   justify-content: center;
